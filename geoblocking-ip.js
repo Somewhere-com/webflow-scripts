@@ -11,8 +11,7 @@
       "LK",
       "KE",
       "TZ",
-      "GY",
-      "PK"
+      "GY"
     ]),
     excludedIps = new Set(["189.14.27.21", "198.58.122.166"]),
     cacheTtlMs = 3600000;
