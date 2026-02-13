@@ -1,4 +1,5 @@
 (function () {
+  // check purge
   const geoApiUrl = "https://get.geojs.io/v1/ip/geo.json",
     allowedCountries = new Set([
       "BR",
